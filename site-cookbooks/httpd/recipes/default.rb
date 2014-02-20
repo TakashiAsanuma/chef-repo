@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-port = 80
+port = 8080
 
 package "httpd" do
   package_name "httpd"
