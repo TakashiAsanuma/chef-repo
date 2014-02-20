@@ -7,6 +7,8 @@
 # All rights reserved - Do Not Redistribute
 #
 
+port = 80
+
 package "httpd" do
   package_name "httpd"
   action :install
