@@ -8,6 +8,7 @@
 #
 
 port = 8080
+domain = hoge.com
 
 package "httpd" do
   package_name "httpd"
